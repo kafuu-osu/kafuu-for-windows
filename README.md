@@ -2,6 +2,10 @@
 
 Build an independent server for development on the windows system
 
+## Screenshot
+
+![shot](https://github.com/kafuu-osu/kafuu-for-windows/blob/master/demo.jpg)
+
 
 ## To build a server on your own windows computer, you need:
 
