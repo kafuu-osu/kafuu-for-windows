@@ -9,7 +9,7 @@ Build an independent server for development on the windows system
 
 ## To build a server on your own windows computer, you need:
 
-0. Environment: mysql 5.7, Python3.6+, a source code
+0. Environment: mysql 5.7, Python3.6+, redis, a source code
 
 1. Start nginx locally
 
