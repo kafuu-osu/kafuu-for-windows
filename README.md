@@ -18,3 +18,8 @@ Build an independent server for development on the windows system
 3. Start bancho
 
 4. Start osu!
+
+## Two startup methods:
+
+1. Use KafuuLocal client: you can access osu.ppy.sh normally (you need to put it in the osu directory to run)
+2. Using osu! Client: Cannot access osu.ppy.sh
